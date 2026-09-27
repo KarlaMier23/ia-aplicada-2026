@@ -1,0 +1,41 @@
+id	nombre	correo	teléfono	fecha_acceso	hora_entrada	area	empresa	motivo
+1	Laura Méndez Ruiz 	laura.mendez@correo.com	5512345678	2026-08-03	8:15	Obra norte	Constructora Alfa	Supervisión
+2	Carlos Ibañez	CARLOS.IBANEZ@CORREO.COM	55 9876 5432	03/08/2026	8:20	obra norte	Constructora Alfa	supervision
+3	Ana Torres	ana.torres@correo.com		2026-08-03	9:05	Oficina central	Diseño Beta	Entrega de planos
+4	Laura Méndez Ruiz 	laura.mendez@correo.com	5512345678	2026-08-03	8:15	Obra norte	Constructora Alfa	Supervisión
+5	Pedro Salgado	pedro.salgado@correo	5511122233	2026-08-04	23:40	Sala de servidores	Soporte TI Gamma	Mantenimiento
+6	Mariana Cruz 	mariana.cruz@correo.com	5544455566	2026-08-04	10:00	Oficina central		Entrevista
+7	Jorge Luna	jorge.luna@correo.com	5577788899	2026-13-04	11:30	Obra sur	Constructora Alfa	Supervisión
+8	Ana Torres	ana.torres@correo.com	5566677788	2026-08-05	9:10	Oficina central	Diseño Beta	Entrega de planos
+9	Roberto Peña	roberto.pena@correo.com	5599900011	2026-08-05	2:15	Sala de servidores	Soporte TI Gamma	Mantenimiento
+10	Sofía Herrera	sofia.herrera@correo.com	5522233344	2026-08-05	14:00	Obra norte	Constructora Alfa	Visita cliente
+11	Valeria Mendoza	valeria.mendoza@correo.com	5545687925	03/08/2026	8:15	obra sur	Soporte TI Gamma	Mantenimiento
+12	Diego Ramírez	DIEGO.RAMIREZ@CORREO.COM	5523458912	2026-08-04	9:30	Obra norte	Diseño Beta	Entrega de planos
+13	Camila Torres	camila.torres@correo.com	5534569023	2026-08-04	5:30	Oficina central	Constructora Alfa	Supervisión
+14	Mateo Hernández	mateo.hernandez@correo.com	5545670134	2026-08-05	10:20	obra sur	Diseño Beta	Entrega de planos
+15	Sofía Navarro	sofia.navarro@correo.com	55 567812 45	2026-08-06	11:45	Sala de servidores	Soporte TI Gamma	Mantenimiento
+16	Emiliano Vargas	emiliano.vargaas@correo.com	5567892356	2026-08-10	13:10	Sala de servidores	Soporte TI Gamma	Mantenimiento
+17	Regina Castillo 	regina.castillo@correo.com	5578903467	2026-08-11	14:25	Obra norte	Constructora Alfa	Entrevista
+18	Santiago Ortega	santiago.ortega@correo.	5579014578	2026-08-11	15:40	Obra norte	Diseño Beta	Entrega de planos
+19	Mariana Flores 	mariana.flores@correo.com		2026-08-12	16:15	Sala de servidores	Soporte TI Gamma	Mantenimiento
+20	Leonardo Cruz 	leonardo.cruz@correo.com	5589014578	2026-08-13	8:40	Obra norte	Diseño Beta	Entrega de planos
+21	Natalia Reyes 	natalia.reyes@correo.com	5589014578	2026-08-13	9:15	Oficina central		Supervisión
+22	Alejando Silva 	alejandro.silva@correo.com	5590125689	2026-08-13	10:35	Sala de servidores	Soporte TI Gamma	Mantenimiento
+23	Fernanda Morales 	fernanda.morales@correo.com	5511236790	2026-08-15	12:00	obra sur	Diseño Beta	Entrega de planos
+24	Sebastián Rojas 	sebastian.rojas@correo.com	5522347801	2026-08-16	23:54	Obra norte	Diseño Beta	Entrega de planos
+25	Renata Jiménez	renata.jimenez@correo.com	5533458912	2026-08-17	13:45	Oficina central	Constructora Alfa	Entrevista
+26	Rodrigo Méndez	rodrigo.mendez@correo.com	5564897234	2026-09-01	14:30	Sala de servidores	Soporte TI Gamma	Mantenimiento
+27	Andrea Salazar	andrea.salazar@correo.com	5533569023	2026-09-03	15:20	Obra norte	Constructora Alfa	Supervisión
+28	Daniel Pacheco	daniel.pacheco@correo.com	5520125689	2026-09-03	16:50	obra sur	Constructora Alfa	Supervisión
+29	Ximena Cárdenas	ximena.cardenas@correo.com	5512347801	2026-09-07	17:35	Sala de servidores	Soporte TI Gamma	Mantenimiento
+30	Pablo Espinoza 	pablo.espinoza@correo.com	5523458912	2026-09-10	18:20	oficina central	Diseño Beta	Entrega de planos
+31	Lucía Cabrera	lucia.cabrera@correo.com	5514687922	2026-09-11	8:10	Sala de servidores	Soporte TI Gamma	Mantenimiento
+32	Nicolás Fuentes	nicolas.fuentes@correo.com	551689	2026-13-32	9:45	obra sur	Constructora Alfa	Entrevista
+33	Ana Paula Vargas	ana.vargas@correo.com	5523648795	2026-09-12	12:30	Obra norte	Diseño Beta	Entrega de planos
+34	Mauricio León 	mauricio.leon@correo.com	5526847964	2026-09-12	13:15	Oficina central	Constructora Alfa	supervision
+35	Valeria Mendoza	valeria.mendoza@correo.com	5545687925	03/08/2026	8:15	obra sur	Soporte TI Gamma	Mantenimiento
+36	Elise Guerrero	ELISE.GUERRERO@CORREO.COM	5564897326	2026-09-16	14:50	Sala de servidores	Soporte TI Gamma	Mantenimiento
+37	Jorge Beltrán 	jorge.beltran@correo.com	5516489723	2026-09-18	22:28	obra norte	Constructora Alfa	Entrevista
+38	Diego Ramírez	diego.ramirez@correo.com	5523458912	2026-08-04	9:30	Obra norte	Diseño Beta	Entrega de planos
+39	Carla Ibarra	carla.ibarra@correo.com	5546897851	2026-09-19	15:25	Obra sur	Constructora Alfa	Supervisión
+40	Andrés Molina	andres.molina@correo.com	5564985233	2026/09/21	16:35	Sala de servidores		Mantenimiento
