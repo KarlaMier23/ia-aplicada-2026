@@ -1,0 +1,38 @@
+id	Id_persona	semana	franja	area	tipo_empresa	motivo
+1	P001	32	Mañana	Obra Norte	Constructora	Supervisión
+2	P002	32	Mañana	Obra Norte	Constructora	Supervision
+3	P003	32	Mañana	Oficina Central	Diseño	Entrega De Planos
+4	P004	32	Noche	Sala De Servidores	Soporte TI	Mantenimiento
+5	P005	32	Mañana	Oficina Central		Entrevista
+6	P006	52	Mañana	Obra Sur	Constructora	Supervisión
+7	P003	32	Mañana	Oficina Central	Diseño	Entrega De Planos
+8	P007	32	Madrugada	Sala De Servidores	Soporte TI	Mantenimiento
+9	P008	32	Tarde	Obra Norte	Constructora	Visita Cliente
+10	P009	32	Mañana	Obra Sur	Soporte TI	Mantenimiento
+11	P010	32	Mañana	Obra Norte	Diseño	Entrega De Planos
+12	P011	32	Madrugada	Oficina Central	Constructora	Supervisión
+13	P012	32	Mañana	Obra Sur	Diseño	Entrega De Planos
+14	P013	32	Mañana	Sala De Servidores	Soporte TI	Mantenimiento
+15	P014	33	Tarde	Sala De Servidores	Soporte TI	Mantenimiento
+16	P015	33	Tarde	Obra Norte	Constructora	Entrevista
+17	P016	33	Tarde	Obra Norte	Diseño	Entrega De Planos
+18	P017	33	Tarde	Sala De Servidores	Soporte TI	Mantenimiento
+19	P018	33	Mañana	Obra Norte	Diseño	Entrega De Planos
+20	P019	33	Mañana	Oficina Central		Supervisión
+21	P020	33	Mañana	Sala De Servidores	Soporte TI	Mantenimiento
+22	P021	33	Tarde	Obra Sur	Diseño	Entrega De Planos
+23	P022	34	Noche	Obra Norte	Diseño	Entrega De Planos
+24	P023	34	Tarde	Oficina Central	Constructora	Entrevista
+25	P024	36	Tarde	Sala De Servidores	Soporte TI	Mantenimiento
+26	P025	36	Tarde	Obra Norte	Constructora	Supervisión
+27	P026	36	Tarde	Obra Sur	Constructora	Supervisión
+28	P027	37	Tarde	Sala De Servidores	Soporte TI	Mantenimiento
+29	P028	37	Noche	Oficina Central	Diseño	Entrega De Planos
+30	P029	37	Mañana	Sala De Servidores	Soporte TI	Mantenimiento
+31	P030	52	Mañana	Obra Sur	Constructora	Entrevista
+32	P031	37	Tarde	Obra Norte	Diseño	Entrega De Planos
+33	P032	37	Tarde	Oficina Central	Constructora	Supervision
+34	P033	38	Tarde	Sala De Servidores	Soporte TI	Mantenimiento
+35	P034	38	Noche	Obra Norte	Constructora	Entrevista
+36	P035	38	Tarde	Obra Sur	Constructora	Supervisión
+37	P036	39	Tarde	Sala De Servidores		Mantenimiento
