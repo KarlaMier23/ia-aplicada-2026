@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="ciclo" name="Ciclo de vida del dato">
+    <mxGraphModel dx="1460" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;fontStyle=1;fontSize=14;" value="Captura" vertex="1">
+          <mxGeometry height="60" width="200" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t1" parent="1" style="text;html=1;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=11;strokeColor=#999999;spacingLeft=6;spacingRight=6;spacingTop=4;" value="&lt;b&gt;Qué ocurre:&lt;/b&gt; Se descargan los datos abiertos de áreas verdes (D1 a D5) publicados por la Dirección de Parques y Jardines del municipio.&lt;br&gt;&lt;br&gt;&lt;b&gt;Responsable:&lt;/b&gt; Líder del proyecto&lt;br&gt;&lt;br&gt;&lt;b&gt;Control:&lt;/b&gt; Usar solo la fuente oficial y registrar la fecha y versión de cada archivo descargado." vertex="1">
+          <mxGeometry height="260" width="200" x="40" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;fontStyle=1;fontSize=14;" value="Almacenamiento" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t2" parent="1" style="text;html=1;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=11;strokeColor=#999999;spacingLeft=6;spacingRight=6;spacingTop=4;" value="&lt;b&gt;Qué ocurre:&lt;/b&gt; Los archivos se guardan en el repositorio del equipo en GitHub.&lt;br&gt;&lt;br&gt;&lt;b&gt;Responsable:&lt;/b&gt; Administrador del repositorio&lt;br&gt;&lt;br&gt;&lt;b&gt;Control:&lt;/b&gt; Acceso solo para integrantes del equipo con verificación en dos pasos." vertex="1">
+          <mxGeometry height="260" width="200" x="280" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;fontStyle=1;fontSize=14;" value="Uso" vertex="1">
+          <mxGeometry height="60" width="200" x="520" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t3" parent="1" style="text;html=1;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=11;strokeColor=#999999;spacingLeft=6;spacingRight=6;spacingTop=4;" value="&lt;b&gt;Qué ocurre:&lt;/b&gt; Se analizan los datos para identificar zonas con pocas áreas verdes y proponer dónde plantar.&lt;br&gt;&lt;br&gt;&lt;b&gt;Responsable:&lt;/b&gt; Analista de datos&lt;br&gt;&lt;br&gt;&lt;b&gt;Control:&lt;/b&gt; Uso limitado al fin declarado del proyecto y registro de las herramientas de IA utilizadas." vertex="1">
+          <mxGeometry height="260" width="200" x="520" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;fontStyle=1;fontSize=14;" value="Compartición" vertex="1">
+          <mxGeometry height="60" width="200" x="760" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t4" parent="1" style="text;html=1;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=11;strokeColor=#999999;spacingLeft=6;spacingRight=6;spacingTop=4;" value="&lt;b&gt;Qué ocurre:&lt;/b&gt; Se comparten resultados con el equipo, el profesor y herramientas de IA en la nube.&lt;br&gt;&lt;br&gt;&lt;b&gt;Responsable:&lt;/b&gt; Líder del proyecto&lt;br&gt;&lt;br&gt;&lt;b&gt;Control:&lt;/b&gt; Compartir solo datos públicos o resultados agregados y revisar que no incluyan datos personales." vertex="1">
+          <mxGeometry height="260" width="200" x="760" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;fontStyle=1;fontSize=14;" value="Retención" vertex="1">
+          <mxGeometry height="60" width="200" x="1000" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t5" parent="1" style="text;html=1;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=11;strokeColor=#999999;spacingLeft=6;spacingRight=6;spacingTop=4;" value="&lt;b&gt;Qué ocurre:&lt;/b&gt; Los datos se conservan mientras dure el proyecto del curso.&lt;br&gt;&lt;br&gt;&lt;b&gt;Responsable:&lt;/b&gt; Líder del proyecto&lt;br&gt;&lt;br&gt;&lt;b&gt;Control:&lt;/b&gt; Plazo definido hasta el cierre del curso y revisión del inventario al terminar." vertex="1">
+          <mxGeometry height="260" width="200" x="1000" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;fontStyle=1;fontSize=14;" value="Eliminación" vertex="1">
+          <mxGeometry height="60" width="200" x="1240" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t6" parent="1" style="text;html=1;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=11;strokeColor=#999999;spacingLeft=6;spacingRight=6;spacingTop=4;" value="&lt;b&gt;Qué ocurre:&lt;/b&gt; Al cerrar el proyecto se borran las copias locales y los archivos subidos a herramientas de IA.&lt;br&gt;&lt;br&gt;&lt;b&gt;Responsable:&lt;/b&gt; Administrador del repositorio&lt;br&gt;&lt;br&gt;&lt;b&gt;Control:&lt;/b&gt; Borrado seguro de copias y confirmación documentada por escrito." vertex="1">
+          <mxGeometry height="260" width="200" x="1240" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="a1" edge="1" parent="1" source="e1" style="endArrow=classic;html=1;strokeColor=#2E7D32;strokeWidth=2;exitX=1;exitY=0.25;entryX=0;entryY=0.25;" target="e2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r1" edge="1" parent="1" source="e1" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=3;exitX=1;exitY=0.75;entryX=0;entryY=0.75;" target="e2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2" edge="1" parent="1" source="e2" style="endArrow=classic;html=1;strokeColor=#2E7D32;strokeWidth=2;exitX=1;exitY=0.25;entryX=0;entryY=0.25;" target="e3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2" edge="1" parent="1" source="e2" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=3;exitX=1;exitY=0.75;entryX=0;entryY=0.75;" target="e3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3" edge="1" parent="1" source="e3" style="endArrow=classic;html=1;strokeColor=#2E7D32;strokeWidth=2;exitX=1;exitY=0.25;entryX=0;entryY=0.25;" target="e4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r3" edge="1" parent="1" source="e3" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=3;exitX=1;exitY=0.75;entryX=0;entryY=0.75;" target="e4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4" edge="1" parent="1" source="e4" style="endArrow=classic;html=1;strokeColor=#2E7D32;strokeWidth=2;exitX=1;exitY=0.25;entryX=0;entryY=0.25;" target="e5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r4" edge="1" parent="1" source="e4" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=3;exitX=1;exitY=0.75;entryX=0;entryY=0.75;" target="e5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5" edge="1" parent="1" source="e5" style="endArrow=classic;html=1;strokeColor=#2E7D32;strokeWidth=2;exitX=1;exitY=0.25;entryX=0;entryY=0.25;" target="e6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5" edge="1" parent="1" source="e5" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=3;exitX=1;exitY=0.75;entryX=0;entryY=0.75;" target="e6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=#FF0000;fontSize=11;fontStyle=1;" value="D1: Ubicación de parques y áreas verdes" vertex="1">
+          <mxGeometry height="50" width="200" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rd1" edge="1" parent="1" source="d1" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=3;" target="e1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gh" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF0000;fontSize=11;" value="Tercero: GitHub (repositorio en la nube)" vertex="1">
+          <mxGeometry height="60" width="180" x="290" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ia" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF0000;fontSize=11;" value="Tercero: modelo generativo en la nube (ChatGPT, Gemini, Deepseek)" vertex="1">
+          <mxGeometry height="60" width="240" x="640" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rt0" edge="1" parent="1" source="e2" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;" target="gh">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rt1" edge="1" parent="1" source="e3" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;" target="ia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rt2" edge="1" parent="1" source="e4" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;" target="ia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lg" parent="1" style="text;html=1;whiteSpace=wrap;fontSize=11;fontColor=#CC0000;" value="Flecha roja = recorrido de D1 (dato de mayor riesgo). Recuadro punteado = tercero donde se pierde el control directo del dato." vertex="1">
+          <mxGeometry height="30" width="700" x="40" y="540" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
