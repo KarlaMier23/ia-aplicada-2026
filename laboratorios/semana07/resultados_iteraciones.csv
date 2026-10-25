@@ -1,0 +1,8 @@
+Iteracion,Tecnica,C1,C2,C3,Total,Observacion
+0,Linea base (zero-shot),1,0,2,3,"Formato distinto en cada entrada; sin campo informacion faltante; severidad inventada en entradas 2 y 3"
+1,Rol,2,0,3,5,"Rol: el vocabulario se volvió técnico pero el formato sigue libre y sin campo de información faltante; severidad asignada con base en suposiciones declaradas."
+2,Rol + contexto,2,0,2,4,"Rol + contexto: usa las categorías cerradas, pero C3 bajó (en la entrada 2 clasificó como phishing y puso severidad sin justificar) y sigue sin tabla."
+3,Rol + contexto + formato,6,6,3,15,"Formato: salto grande en C1 y C2 (tabla exacta). C3 casi no sube: la severidad se sigue asignando sin respaldo en las entradas 2 y 3."
+4,Anterior + ejemplo (few-shot),6,6,4,16,"Ejemplo: mejor puntaje. La entrada 1 llegó a C3 = 2 y no copió el ejemplo de USB. La severidad inventada persiste en las entradas 2 y 3."
+5,Anterior + cadena de razonamiento,6,3,4,13,"Cadena de razonamiento: C2 bajó por el texto previo a la tabla y C3 no mejoró. El análisis de la entrada 3 se contradice."
+Robustez,Prompt adoptado con entrada 4,,,,,
